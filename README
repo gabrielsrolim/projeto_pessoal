@@ -25,9 +25,6 @@ nome
 preço_compra
 preço_venda
 
-->Tipo_produto_fornecedor
-Nome
-
 ->Fornecedores
 Nome
 telefone
@@ -38,3 +35,12 @@ tipo_do_produto
 data_compra
 metros_comprados
 valor_da_compra
+
+Stock
+valor
+compra ou venda
+
+
+
+
+
